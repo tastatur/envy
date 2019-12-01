@@ -1,2 +1,2 @@
 # envy
-Arduino sketch for measuring and reposring room conditions
+Arduino sketch for measuring and reporting room conditions
